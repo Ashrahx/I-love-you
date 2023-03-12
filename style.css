@@ -147,3 +147,15 @@ color: #fff;
 text-align: center;
 text-align: justify;
 }
+
+footer {
+    position: absolute;
+    min-width: 100%;
+    display: flex;
+    z-index: 10000;
+    background: #1c0522;
+    }
+
+.copy{
+    color: #fff;
+}
